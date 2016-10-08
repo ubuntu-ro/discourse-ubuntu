@@ -29,7 +29,7 @@ register_css <<CSS
  */
 
 html {
-    background: url(http://assets.ubuntu.com/sites/ubuntu/latest/u/img/patterns/body_bg.jpg) !important;
+    background: url(https://assets.ubuntu.com/sites/ubuntu/latest/u/img/patterns/body_bg.jpg) !important;
 }
 
 body,
@@ -184,7 +184,7 @@ body #main .d-header .extra-info-wrapper a.star.starred{
     border-left: 1px solid #EC5B29;
 }
 #main .d-header .icon-comment {
-    background-image: url("http://assets.ubuntu.com/sites/ubuntu/latest/u/img/messages-white.png"), url("http://assets.ubuntu.com/sites/ubuntu/latest/u/img/messages-white.svg");
+    background-image: url("https://assets.ubuntu.com/sites/ubuntu/latest/u/img/messages-white.png"), url("https://assets.ubuntu.com/sites/ubuntu/latest/u/img/messages-white.svg");
     background-repeat: no-repeat;
     background-size: 20px 20px;
     background-position: center center;
@@ -193,7 +193,7 @@ body #main .d-header .extra-info-wrapper a.star.starred{
     content:"";
 }
 #main .d-header .icon-search {
-    background-image: url("http://assets.ubuntu.com/sites/ubuntu/latest/u/img/search.png"), url("http://assets.ubuntu.com/sites/ubuntu/latest/u/img/search.svg");
+    background-image: url("https://assets.ubuntu.com/sites/ubuntu/latest/u/img/search.png"), url("https://assets.ubuntu.com/sites/ubuntu/latest/u/img/search.svg");
     background-repeat: no-repeat;
     background-size: 20px 20px;
     background-position: center center;
@@ -202,7 +202,7 @@ body #main .d-header .extra-info-wrapper a.star.starred{
     content:"";
 }
 #main .d-header .icon-reorder {
-    background-image: url("http://assets.ubuntu.com/sites/ubuntu/latest/u/img/navigation-menu.png"), url("http://assets.ubuntu.com/sites/ubuntu/latest/u/img/navigation-menu.svg");
+    background-image: url("https://assets.ubuntu.com/sites/ubuntu/latest/u/img/navigation-menu.png"), url("https://assets.ubuntu.com/sites/ubuntu/latest/u/img/navigation-menu.svg");
     background-repeat: no-repeat;
     background-size: 20px 20px;
     background-position: center center;
@@ -211,7 +211,7 @@ body #main .d-header .extra-info-wrapper a.star.starred{
     content:"";
 }
 #main .d-header .icon-user {
-    background-image: url("http://assets.ubuntu.com/sites/ubuntu/latest/u/img/contact.png"), url("http://assets.ubuntu.com/sites/ubuntu/latest/u/img/contact.svg");
+    background-image: url("https://assets.ubuntu.com/sites/ubuntu/latest/u/img/contact.png"), url("https://assets.ubuntu.com/sites/ubuntu/latest/u/img/contact.svg");
     background-repeat: no-repeat;
     background-size: 20px 20px;
     background-position: center center;
